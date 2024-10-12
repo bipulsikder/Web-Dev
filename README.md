@@ -8,3 +8,9 @@ Hello Developers! I'm a small particular in the galaxy, seeking to get proficien
 <img width="428" alt="Screenshot 2024-10-12 at 4 10 08 PM" src="https://github.com/user-attachments/assets/d843c861-a8ac-4e59-a326-fc8e89178545">
 <img width="1440" alt="Screenshot 2024-10-12 at 4 11 18 PM" src="https://github.com/user-attachments/assets/4b11f940-d944-4e94-9ecc-f8a3f9945a61">
 <img width="1438" alt="Screenshot 2024-10-12 at 4 22 17 PM" src="https://github.com/user-attachments/assets/ed5b9450-cd4b-4eb3-a5cf-27132f182cc3">
+.
+.
+.
+.
+Trying to build anything whatever i saw while exploring sites this is one of them 
+![WhatsApp Image 2024-10-12 at 23 35 56](https://github.com/user-attachments/assets/f8a1d089-13fd-4d75-98d9-95941eaf6740)
