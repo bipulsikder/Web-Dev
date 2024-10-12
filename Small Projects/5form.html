@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    
+    .form-container {
+      width: 400px;
+      margin: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .input-group {
+      margin-bottom: 20px;
+    }
+    
+    .input-group input {
+      width: 48%; /* Adjust width to fit two inputs side by side */
+      padding: 10px;
+      margin-right: 2%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+      display: inline-block; /* Inline-block to keep inputs on the same line */
+    }
+    
+    .input-group input:last-child {
+      margin-right: 0; /* Remove margin for the last input */
+    }
+    
+    .input-full {
+      margin-bottom: 15px;
+    }
+    
+    .input-full input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    
+    .submit-btn {
+      width: 100%;
+      padding: 12px;
+      background-color: #4a90e2;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    .submit-btn:hover {
+      background-color: #357abd;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="form-container">
+    <div class="input-group">
+      <input type="text" placeholder="First name">
+      <input type="text" placeholder="Last name">
+    </div>
+    <div class="input-full">
+      <input type="email" placeholder="Email">
+    </div>
+    <button class="submit-btn">Sign Up</button>
+  </div>
+
+</body>
+</html>
