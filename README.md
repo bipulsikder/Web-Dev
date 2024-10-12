@@ -1,4 +1,4 @@
-Hello Developers! I'm a small particular in the galaxy, seeking to get proficient in the Frontend Dev in Web, This is the step-by-step journey to master frontend in Web & App Both, but this repo is to start with the web from scratch this is the outputs of my html and css code 
+Hello Developers! I'm a small particular in the galaxy, seeking to get proficient in the Frontend Dev in Web, This is the step-by-step journey to master frontend in Web & App Both, but this repo is to start with the web from scratch this is the outputs of my html and css code and will upload all the learnings from my side to this repo.
 
 
 <img width="392" alt="Screenshot 2024-10-12 at 4 08 57 PM" src="https://github.com/user-attachments/assets/92f1df26-e332-4595-937c-0388ce6f98e9">
